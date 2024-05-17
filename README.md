@@ -14,7 +14,7 @@ I'm passionate about working with data and exploring the endless possibilities i
 ### Skills and Technologies
 - **Languages**: Python, R, SQL
 - **Data Analysis**: Pandas, NumPy, Scikit-learn
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Databases**: MySQL, PostgreSQL
 - **Machine Learning**: TensorFlow, Keras
 - **Version Control**: Git, GitHub
@@ -22,8 +22,8 @@ I'm passionate about working with data and exploring the endless possibilities i
 ### Get in Touch
 I'm always open to connecting with fellow data enthusiasts and professionals. Feel free to reach out to me through any of the following platforms:
 
-- **Email**: [your.email@example.com](mailto:andres.vanegas1085@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/wilmer-andres-vanegas-cangrejo-0b37b7114/)
+- **Email**: [Wilmer Andrés Vanegas Cangrejo](mailto:andres.vanegas1085@gmail.com)
+- **LinkedIn**: [Wilmer Andrés Vanegas Cangrejo](https://www.linkedin.com/in/wilmer-andres-vanegas-cangrejo-0b37b7114/)
 
 
 Thank you for visiting my GitHub profile! I look forward to collaborating and learning together.
