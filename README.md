@@ -19,12 +19,17 @@ I'm Wilmer Andrés Vanegas Cangrejo, a data enthusiast based in Bogotá, Colombi
 - **Machine Learning**: TensorFlow, Keras
 - **Version Control**: Git, GitHub
 
+### Personal Interests
+When I'm not working with data, I enjoy:
+- Exploring new places and cultures
+- Reading about the latest trends in technology and data science
+- Engaging in outdoor activities and staying active
+
 ### Get in Touch
 I'm always open to connecting with fellow data enthusiasts and professionals. Feel free to reach out to me through any of the following platforms:
 
 - **Email**: [Wilmer Andrés Vanegas Cangrejo](mailto:andres.vanegas1085@gmail.com)
 - **LinkedIn**: [Wilmer Andrés Vanegas Cangrejo](https://www.linkedin.com/in/wilmer-andres-vanegas-cangrejo-0b37b7114/)
-
 
 Thank you for visiting my GitHub profile! I look forward to collaborating and learning together.
 
