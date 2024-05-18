@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm thrilled to have you here. 
 
 ### About Me
-I'm passionate about working with data and exploring the endless possibilities it offers. I believe in the power of data to drive decision-making and create impactful solutions. Here are a few things about me:
+I'm Wilmer Andrés Vanegas Cangrejo, a data enthusiast based in Bogotá, Colombia. I hold a degree in Business Administration and a Master's degree in Data Analytics. I am passionate about the versatility of data and its potential to contribute to research across various fields. Here are a few things about me:
 
 - 📊 **Data Enthusiast**: I started working with data and have been fascinated by its potential to uncover insights and tell stories.
 - 🌱 **Continuous Learner**: I'm always eager to learn new technologies and methodologies in the field of data science.
